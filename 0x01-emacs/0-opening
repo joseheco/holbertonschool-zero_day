@@ -1,1 +1,1 @@
-abrir un archivo emacs  : emacs filename
+abrir un archivo emacs  : C-x C-f
