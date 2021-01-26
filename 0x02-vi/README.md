@@ -1,0 +1,1 @@
+Son los comandos iniciales de Vim. 
