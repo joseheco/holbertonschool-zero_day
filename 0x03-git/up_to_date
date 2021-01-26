@@ -1,0 +1,4 @@
+touch name
+git add .
+git commit
+git push
